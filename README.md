@@ -1,2 +1,3 @@
 # first
-the test code
+#the test code
+print("hello world")
